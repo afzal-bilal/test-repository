@@ -1,1 +1,1 @@
-this is the new file in the master to check the functionaliy of the pull .
+this is the new file in the master to check the functionaliy of the pull . now some more changes in the format and other stuff
